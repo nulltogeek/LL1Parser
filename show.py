@@ -1,0 +1,1 @@
+# 1 stack before pop $E -> $   
