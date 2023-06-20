@@ -175,5 +175,5 @@ class LL1Parser:
 
 
 parser = LL1Parser()
-input_string = "E"
+input_string = "d+d*d"
 parser.parse(input_string)
